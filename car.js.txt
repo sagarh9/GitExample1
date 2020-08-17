@@ -1,0 +1,19 @@
+{
+    car {
+        make Mercedes-Benz,
+        model gt3,
+        year 2019,
+        color {
+            red 255,
+            blue 0,
+            green 0
+        },
+        towing-capable false,
+        wheel [
+            { where left-front, psi 34.0 },
+            { where right-front, psi 33.0 },
+            { where left-rear, psi 37.3 }
+            { where right-rear, psi null }
+        ]
+    }
+}
